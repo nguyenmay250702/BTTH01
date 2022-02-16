@@ -90,6 +90,7 @@ body{
 
 .navigation-auto div{
     transition: 1s;
+
 }
 
 #radio1:checked ~ .navigation-auto .auto-btn1{
